@@ -1,6 +1,6 @@
 # Laravel by piotr - Book reviews project
 
-## +Lesson 1
+## 🟢Lesson 1
 ___
 
 ### Step 1:
@@ -18,7 +18,7 @@ ___
 
 
 
-## +Lesson 2
+## 🟢Lesson 2
 ___
 ### Table relationships (model relationships)
 
