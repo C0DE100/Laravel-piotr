@@ -1,6 +1,6 @@
 # Laravel by piotr - Book reviews project
 
-## Lesson 1
+## <span style="color: red;">Lesson 1</span>
 ___
 
 ### Step 1:
@@ -18,7 +18,7 @@ ___
 
 
 
-## Lesson 2
+## <span style="color: red;">Lesson 2</span>
 ___
 ### Table relationships (model relationships)
 
