@@ -1,6 +1,7 @@
 # Laravel by piotr - Book reviews project
 
----------------- Lesson 1 ----------------
+## Lesson 1
+___
 
 ### Step 1:
 - Change .env to mysql and the laravel-10-book-reviews database name
@@ -17,8 +18,8 @@ ___
 
 
 
-
----------------- Lesson 2 ----------------
+## Lesson 2
+___
 ### Table relationships (model relationships)
 
 - we add the foreign key to the migration of reviews:
@@ -44,6 +45,4 @@ ___
             return $this->hasMany(Review::class);
         }
     ```
-
-
 ___
