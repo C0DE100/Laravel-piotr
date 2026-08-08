@@ -13,7 +13,7 @@
 - adding db table fields to the migrations for books and review
 - running php artisan migrate - to create the db & tables
 
----------------- End of lesson 1 ----------------
+___
 
 
 
@@ -46,4 +46,4 @@
     ```
 
 
----------------- End of lesson 2 ----------------
+___
