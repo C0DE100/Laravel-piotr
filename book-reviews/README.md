@@ -38,10 +38,12 @@
 ### Next
 - we add a method to the Book class (model):
 
-    ```public function reviews()
+    ```
+    public function reviews()
         {
             return $this->hasMany(Review::class);
-        }```
+        }
+    ```
 
 
 ---------------- End of lesson 2 ----------------
