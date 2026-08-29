@@ -41,8 +41,24 @@ ___
 
     ```
     public function reviews()
-        {
-            return $this->hasMany(Review::class);
-        }
+    {
+        return $this->hasMany(Review::class);
+    }
     ```
+- and we add this to the Review class (model)
+    
+    ```
+    public function book()
+    {
+        return $this->belongsTo(Book::class);
+    }
+    ```
+___
+
+## 🟢Lesson 3 - Factory & Seeder
+- we run `php artisan make:factory BookFactory --model=Book`
+- we run `php artisan make:factory ReviewFactory --model=Review`
+
+
+
 ___
